@@ -28,16 +28,4 @@ class Mujer extends Persona{
 }
 
 main(List<String> args) {
-  var jose = Hombre();
-  jose.nombre = "Jose";
-  print(jose.nombre);
-
-  var mildred = Mujer();
-  mildred.nombre = "Mildred";
-  mildred.edad = 26;
-  print(mildred.nombre);
-  print(mildred.edad);
-
-  jose.sumarEdad();
-  print(jose.edad);
 }
