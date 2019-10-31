@@ -39,5 +39,7 @@ main(List<String> args) {
   /**
    * Una clase abstracta es una clase en la que almenos
    * vamos a encontrar un metodo abstracto.
+   * Podemos tener metodos en donde no tenemos un metodo
+   * los debemos sobre escribir con la herencia
    */
 }
